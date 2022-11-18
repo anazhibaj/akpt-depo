@@ -1,0 +1,64 @@
+---
+title: "Burimet e planifikimit urban"
+author: "Ana Zhibaj"
+date: "11/18/2022"
+output: html_document
+---
+
+Depoja e burimeve të paçmueshme të planifikimit dhe projektimit urban 
+
+Kjo depo përmban një listë të kuruar burimesh, publikimesh, tezash, e revistash, me interes për planifikimin dhe projektimin urban. Frymëzuar nga një depo tjetër e planifikimit urban [Urban and Regional Planning Resources] (https://github.com/APA-Technology-Division/urban-and-regional-planning-resources/blob/main/README.md), Agjencia Kombëtare e Planifikimit të Territorit vendosi të krijojë dhe të përditësojë një listë të volitshme për studentë, akademikë, praktikues, apo dhe fansa të planifikimit urban. 
+
+Nëse keni dëshirë të kontribuoni, na kontaktoni në email. 
+
+---
+<!--lint disable awesome-toc-->
+## Përmbajtja 
+
+- [Burime edukuese dhe informuese](#burime-edukuese-dhe-informuese)
+  - [Universitete](#universitete)
+  - [Databazat e botimeve te institucioneve](#databaza-e-botimeve-te-institucioneve)
+  - [Blogje](#blogje)
+  - [Video](#video)
+  - [Podkaste](#podkaste)
+  - [Institucione dhe Agjenci Shteterore te Planifikimit](#institucione-dhe-agjenci-shteterore-te-planifikimit)
+
+---
+## Burime edukuese dhe informuese
+përshkrim
+
+---
+
+### Universitete
+
+- [TMU Brownsfield research lab ](https://www.brownfieldsresearchlab.com/work/current/) -  përshkrim 
+- [City Building TMU](https://www.torontomu.ca/city-building/) -  përshkrim
+
+### Databazat e botimeve te institucioneve
+- [Lincoln Land Institute](https://www.lincolninst.edu/publications) - përshkrim
+- [FSHZH](https://www.albaniandf.org/harta-e-investimeve/) - përshkrim
+
+### Blogje
+
+- [Planetizen](https://www.planetizen.com/) - përshkrim
+- [StreetsBlog USA](https://www.streetsblog.org/) - përshkrim
+
+### Video 
+
+-[Urban Mobility Explained (Youtube Channel)](https://www.youtube.com/channel/UC9cCBxQU1IjuRdiNtZqpxTg) - përshkrim 
+
+- [Not Just Bikes](https://www.youtube.com/c/NotJustBikes) - përshkrim 
+  
+### Podkaste
+
+- [Strong towns](https://www.strongtowns.org/podcast) -  përshkrim
+- [Monocle: The Urbanist](https://monocle.com/radio/shows/the-urbanist/) - përshkrim
+
+---
+
+## Institucione dhe Agjenci Shteterore te Planifikimit
+
+- [Holande](https://pbl.nl/) - përshkrim
+- [Itali](https://www.agenziacoesione.gov.it/) - përshkrim
+
+---
